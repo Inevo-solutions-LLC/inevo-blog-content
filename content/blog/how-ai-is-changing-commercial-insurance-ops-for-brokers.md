@@ -3,12 +3,14 @@ title: How AI Is Changing Commercial Insurance Ops for Brokers
 slug: how-ai-is-changing-commercial-insurance-ops-for-brokers
 excerpt: Commercial insurance teams lose half their day to admin work. Learn how AI is changing that and what it means for brokers.
 image: /blog-images/InEvo Blog Featured Images.png
+imageAlt: ''
 category: AI & Technology
 date: 2026-05-27T22:28:00
 readTime: 8 min read
 featured: false
 author: InEvo AI Team
 metaDescription: Commercial insurance teams lose half their day to admin work. Learn how AI is changing that and what it means for brokers.
+keywords: ''
 ---
 
 If you're a commercial insurance broker, you already know where your day goes. Client conversations and complex risk decisions take a back seat to emails, PDFs, renewal spreadsheets and carrier portals. The actual work of brokering gets squeezed into whatever's left.
@@ -29,7 +31,7 @@ When these people are stretched, everything slows down.
 
 A producer needs to prepare a submission. They pull information from a prior application, cross-reference an email thread, check a spreadsheet for loss history, log into two carrier portals, then manually organize everything into a format the underwriter can use. That's before they've written a single word of the actual submission. It takes hours and happens dozens of times a week across the agency.
 
-![Changes in commercial insurance workflows before AI vs with AI](/blog-images/InEvo%20Why%20More%20Commercial%20Insurance%20Agencies%20Are%20Starting%20to%20Use%20AI%20%286%29.png "Changes in commercial insurance workflows before AI vs with AI")
+<div style="text-align:center"><img src="/blog-images/InEvo%20Why%20More%20Commercial%20Insurance%20Agencies%20Are%20Starting%20to%20Use%20AI%20(6).png" alt="Changes in commercial insurance workflows before AI vs with AI" style="max-width:100%;height:auto;display:inline-block;" /></div>
 
 _Source: BCG, Applied Systems Voice of Customer Survey_
 
@@ -44,6 +46,8 @@ The agencies moving fastest have been honest about where operational time is act
 P&C is one of the broadest lines in commercial insurance, covering property, liability, workers' compensation, inland marine and more. Each of those lines carries its own documentation requirements, policy structures and renewal workflows.
 
 For teams managing accounts across multiple P&C lines, the operational load adds up fast.
+
+<div style="text-align:center"><img src="/blog-images/InEvo%20Multi-Line%20Document%20Review%20Flow%20(2).png" alt="" style="max-width:100%;height:auto;display:inline-block;" /></div>
 
 ![Multiple line document review flow in commercial insurance](/blog-images/InEvo%20Multi-Line%20Document%20Review%20Flow%20%282%29.png "Multiple line document review flow in commercial insurance")
 
