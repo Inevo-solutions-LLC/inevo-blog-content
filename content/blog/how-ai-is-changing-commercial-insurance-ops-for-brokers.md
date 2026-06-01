@@ -47,9 +47,7 @@ P&C is one of the broadest lines in commercial insurance, covering property, lia
 
 For teams managing accounts across multiple P&C lines, the operational load adds up fast.
 
-<div style="text-align:center"><img src="/blog-images/InEvo%20Multi-Line%20Document%20Review%20Flow%20(2).png" alt="" style="max-width:100%;height:auto;display:inline-block;" /></div>
-
-![Multiple line document review flow in commercial insurance](/blog-images/InEvo%20Multi-Line%20Document%20Review%20Flow%20%282%29.png "Multiple line document review flow in commercial insurance")
+<div style="text-align:center"><img src="/blog-images/InEvo%20Multi-Line%20Document%20Review%20Flow%20(2).png" alt="Multiple line document review flow in commercial insurance" style="max-width:100%;height:auto;display:inline-block;" /></div>
 
 **Document review** is one of the clearest examples of where AI is reducing that load. On a mid-sized commercial account with property, general liability and workers' comp all renewing together, a broker is typically working through declarations pages, endorsement schedules, coverage summaries, loss runs and ACORD forms often across multiple carriers, each formatting them differently. Identifying what changed year over year across all of that can take the better part of a morning. AI surfaces those differences across each document quickly, so the broker spends their time on what the changes actually mean for the client rather than finding them.
 
@@ -63,7 +61,7 @@ For a simple loss run, that process takes 15 to 30 minutes. For a complex accoun
 
 Commercial auto operations involve a specific kind of repetitive work. Fleet schedules, driver records, vehicle details, claims history and renewal documentation require constant updates, and the information rarely sits in one place.
 
-![Fleet Commercial Insurance Renewal Preparation Flow](/blog-images/InEvo%20Fleet%20Renewal%20Preparation%20Flow%20%282%29.png "Fleet Commercial Insurance Renewal Preparation Flow")
+<div style="text-align:center"><img src="/blog-images/InEvo%20Fleet%20Renewal%20Preparation%20Flow%20(2).png" alt="Fleet Commercial Insurance Renewal Preparation Flow" style="max-width:100%;height:auto;display:inline-block;" /></div>
 
 **Fleet documentation review** is one of the more straightforward use cases. Instead of going through vehicle schedules and driver applications line by line, account managers are using AI to summarize schedules and organize data before submissions go out. On a fleet account with 50 or more vehicles, that kind of pre-submission review can take most of an afternoon. AI helps the broker right from gathering data to coverage review.
 
@@ -81,7 +79,7 @@ Sometimes all at once and each needing accurate policy numbers, coverage limits 
 
 CGL policies involve complex language, layered exclusions and coverage considerations that require attention. Comparing policy versions, identifying what changed and explaining those changes to clients is time-consuming work.
 
-![Commercial Insurance Policy Comparison Workflow](/blog-images/InEvo%20Multi-Line%20Document%20Review%20Flow%20%283%29.png "Commercial Insurance Policy Comparison Workflow")
+<div style="text-align:center"><img src="/blog-images/InEvo%20Multi-Line%20Document%20Review%20Flow%20(3).png" alt="Commercial Insurance Policy Comparison Workflow" style="max-width:100%;height:auto;display:inline-block;" /></div>
 
 **Policy comparison** is one of the more practical applications. Teams are using AI to identify changes between policy versions, summarize exclusions and organize coverage information before internal review. The broker still interprets what those changes mean for a specific client or industry. AI surfaces the information faster.
 
@@ -97,7 +95,7 @@ Insurers using AI have reported cycle time reductions of [50 to 75%](https://www
 
 Underwriting and servicing are where a lot of the operational friction in commercial insurance actually lives. Information moves between producers, account managers, carriers and servicing teams throughout the lifecycle of an account, and most of that movement is still manual.
 
-![Commercial Insurance Submission Handoff Flow](/blog-images/InEvo%20Fleet%20Renewal%20Preparation%20Flow%20%283%29.png "Commercial Insurance Submission Handoff Flow")
+<div style="text-align:center"><img src="/blog-images/InEvo%20Fleet%20Renewal%20Preparation%20Flow%20(3).png" alt="Commercial Insurance Submission Handoff Flow" style="max-width:100%;height:auto;display:inline-block;" /></div>
 
 **Submission preparation** is one of the bigger pain points. Teams using AI to organize and summarize that information are producing cleaner submissions faster, which tends to reduce back-and-forth with carriers during the quoting process.
 
@@ -121,7 +119,7 @@ The work AI handles best in commercial insurance is repetitive, document-heavy a
 
 Platforms like Applied Epic and Vertafore AMS360 are now embedding AI directly into their systems to address exactly this problem.
 
-![Illustrative breakdown of where broker time goes](/blog-images/InEvo%20Why%20More%20Commercial%20Insurance%20Agencies%20Are%20Starting%20to%20Use%20AI%20%283%29.png "Illustrative breakdown of where broker time goes")
+<div style="text-align:center"><img src="/blog-images/InEvo%20Why%20More%20Commercial%20Insurance%20Agencies%20Are%20Starting%20to%20Use%20AI%20(3).png" alt="Illustrative breakdown of where broker time goes" style="max-width:100%;height:auto;display:inline-block;" /></div>
 
 _Illustrative breakdown based from BCG (2025): admin tasks consume 50%+ of broker time_
 
