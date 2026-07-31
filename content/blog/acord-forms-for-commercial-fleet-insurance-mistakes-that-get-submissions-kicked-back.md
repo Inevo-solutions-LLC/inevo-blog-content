@@ -4,7 +4,7 @@ slug: ACORD-forms-for-commercial-fleet-insurance
 excerpt: 'Power units, trailers and vehicle numbering: the ACORD form errors that get fleet submissions kicked back, and how to catch them before you send.'
 image: /blog-images/ChatGPT Image Jul 24, 2026, 08_57_35 AM.png
 imageAlt: ''
-category: AI & Technology
+category: Blogs
 date: 2026-07-28T21:38
 readTime: 5 min read
 featured: false
