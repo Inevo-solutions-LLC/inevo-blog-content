@@ -4,7 +4,7 @@ slug: how-peos-reduce-workers-compensation-costs
 excerpt: PEO workers' compensation submissions fail for 3 reasons. See how structured intake fixes the rate problem before a file reaches the carrier.
 image: /blog-images/ChatGPT Image Jun 26, 2026, 09_07_06 PM.png
 imageAlt: ''
-category: AI & Technology
+category: Blogs
 date: 2026-07-01T21:30
 readTime: 5 min read
 featured: false
