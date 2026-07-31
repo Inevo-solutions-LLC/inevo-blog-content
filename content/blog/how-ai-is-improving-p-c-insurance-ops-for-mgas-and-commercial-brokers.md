@@ -4,7 +4,7 @@ slug: ai-improving-p&c-insurance-ops-for-mgas-and-commercial-brokers
 excerpt: 'Commercial P&C brokers lose deals to manual data collection: FEIN lookups, NAICS matching, ACORD forms filled by hand. See exactly where AI cuts that load and what to verify before adopting any tool.'
 image: /blog-images/ChatGPT Image Jun 4, 2026, 09_30_39 PM.png
 imageAlt: How AI Is Improving P&C Insurance Ops for MGAs and Commercial Brokers
-category: AI & Technology
+category: Blogs
 date: 2026-06-09T21:30:00
 readTime: 6 min read
 featured: false
