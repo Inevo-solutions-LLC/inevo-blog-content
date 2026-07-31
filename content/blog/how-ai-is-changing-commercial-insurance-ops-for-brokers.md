@@ -4,7 +4,7 @@ slug: how-ai-is-changing-commercial-insurance-ops-for-brokers
 excerpt: Commercial insurance teams lose half their day to admin work. Learn how AI is changing that and what it means for brokers.
 image: /blog-images/InEvo Blog Featured Images.png
 imageAlt: ''
-category: AI & Technology
+category: Blogs
 date: 2026-05-27T22:28:00
 readTime: 8 min read
 featured: false
