@@ -4,7 +4,7 @@ slug: fleet-insurance-submissions-what-slows-them-and-how-to-fix-it
 excerpt: A broker's guide to what slows a fleet insurance submission in 2026 and how to prevent the delays, re-rates and kickbacks that cost you the quote.
 image: /blog-images/ChatGPT Image Jul 22, 2026, 02_48_59 PM.png
 imageAlt: ''
-category: AI & Technology
+category: Blogs
 date: 2026-07-24T21:33
 readTime: 5 min read
 featured: true
