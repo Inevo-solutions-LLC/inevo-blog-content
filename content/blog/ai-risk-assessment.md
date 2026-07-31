@@ -1,14 +1,15 @@
 ---
-title: "The Future of Insurance: AI-Powered Risk Assessment"
-slug: "ai-risk-assessment"
-excerpt: "Machine learning is changing how carriers price risk. Here is what underwriting teams need to know before adopting it."
-image: "/blog-images/blog-card-image-2.png"
-category: "Risk Management"
+title: 'The Future of Insurance: AI-Powered Risk Assessment'
+slug: ai-risk-assessment
+excerpt: Machine learning is changing how carriers price risk. Here is what underwriting teams need to know before adopting it.
+image: /blog-images/blog-card-image-2.png
+imageAlt: ''
+category: Blogs
 date: 2024-01-12T09:00:00.000Z
-readTime: "7 min read"
+readTime: 7 min read
 featured: false
-author: "InEvo AI Team"
-metaDescription: "How AI-powered risk assessment is transforming insurance underwriting — faster decisions, better loss ratios, and the operational pitfalls to avoid."
+author: InEvo AI Team
+metaDescription: How AI-powered risk assessment is transforming insurance underwriting — faster decisions, better loss ratios, and the operational pitfalls to avoid.
 ---
 
 ## Why traditional risk models fall short
