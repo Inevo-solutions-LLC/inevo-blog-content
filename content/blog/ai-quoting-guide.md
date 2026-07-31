@@ -4,7 +4,7 @@ slug: ai-quoting-guide
 excerpt: Across the U.S. insurance ecosystem, AI is reshaping how quotes are generated, evaluated, and delivered. Here is what works and what does not.
 image: /blog-images/blog-card-image-1.png
 imageAlt: ''
-category: AI & Technology
+category: Blogs
 date: 2024-01-15T10:00:00.000Z
 readTime: 5 min read
 featured: false
