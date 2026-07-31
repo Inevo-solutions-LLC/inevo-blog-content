@@ -10,6 +10,7 @@ readTime: 5 min read
 featured: false
 author: InEvo AI Team
 metaDescription: A practical guide to how AI helps insurance quoting in the U.S. — where it adds real value, where humans are still essential, and how to deploy it safely.
+keywords: ''
 ---
 
 ## The shift in commercial intake
@@ -29,7 +30,7 @@ AI is brittle when the upstream data is wrong. A misread limit on a policy sched
 ## What we recommend
 
 1. Start narrow — pick one line of business and one document type.
-2. Measure precision *and* recall before scaling.
+2. Measure precision _and_ recall before scaling.
 3. Keep audit trails so compliance can reconstruct any decision.
 
 The teams that succeed treat AI as a co-pilot, not an autopilot.
