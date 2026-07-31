@@ -1,14 +1,15 @@
 ---
-title: "How does AI help in Quoting: Where it Thrives & Where it Fails?"
-slug: "ai-quoting-guide"
-excerpt: "Across the U.S. insurance ecosystem, AI is reshaping how quotes are generated, evaluated, and delivered. Here is what works and what does not."
-image: "/blog-images/blog-card-image-1.png"
-category: "AI & Technology"
+title: 'How does AI help in Quoting: Where it Thrives & Where it Fails?'
+slug: ai-quoting-guide
+excerpt: Across the U.S. insurance ecosystem, AI is reshaping how quotes are generated, evaluated, and delivered. Here is what works and what does not.
+image: /blog-images/blog-card-image-1.png
+imageAlt: ''
+category: AI & Technology
 date: 2024-01-15T10:00:00.000Z
-readTime: "5 min read"
-featured: true
-author: "InEvo AI Team"
-metaDescription: "A practical guide to how AI helps insurance quoting in the U.S. — where it adds real value, where humans are still essential, and how to deploy it safely."
+readTime: 5 min read
+featured: false
+author: InEvo AI Team
+metaDescription: A practical guide to how AI helps insurance quoting in the U.S. — where it adds real value, where humans are still essential, and how to deploy it safely.
 ---
 
 ## The shift in commercial intake
