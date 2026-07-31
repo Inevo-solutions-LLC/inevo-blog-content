@@ -4,7 +4,7 @@ slug: what-carrier-ready-actually-means-in-commercial-insurance
 excerpt: Incomplete submissions lose accounts. Here's what carriers actually need to quote fast and how to get there before a competitor does.
 image: /blog-images/ChatGPT Image Jun 26, 2026, 04_47_16 PM.png
 imageAlt: ''
-category: AI & Technology
+category: Blogs
 date: 2026-07-08T22:24
 readTime: 5 min read
 featured: false
