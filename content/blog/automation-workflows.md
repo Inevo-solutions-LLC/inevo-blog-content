@@ -1,14 +1,15 @@
 ---
-title: "Streamlining Insurance Workflows with Automation"
-slug: "automation-workflows"
-excerpt: "Automation can cut hours of manual work per submission. The trick is picking the right tasks and instrumenting the handoffs."
-image: "/blog-images/blog-card-image-3.png"
-category: "Automation"
+title: Streamlining Insurance Workflows with Automation
+slug: automation-workflows
+excerpt: Automation can cut hours of manual work per submission. The trick is picking the right tasks and instrumenting the handoffs.
+image: /blog-images/blog-card-image-3.png
+imageAlt: ''
+category: Blogs
 date: 2024-01-10T08:00:00.000Z
-readTime: "6 min read"
+readTime: 6 min read
 featured: false
-author: "InEvo AI Team"
-metaDescription: "A pragmatic guide to automating insurance workflows — which tasks to automate first, how to measure ROI, and how to keep humans in the loop where it matters."
+author: InEvo AI Team
+metaDescription: A pragmatic guide to automating insurance workflows — which tasks to automate first, how to measure ROI, and how to keep humans in the loop where it matters.
 ---
 
 ## Where to start
