@@ -27,4 +27,4 @@ The whole thing is built around the idea that Claude produces the first pass, th
 
 The difference is that review now takes ten minutes instead of two hours.
 
-Fill this [quick form](https://4187xx.share-na2.hsforms.com/22tPaT1FuRI-Ob9CB4R8oCg) and we'll send the whitepaper over email.
+[Click here](https://243927861.fs1.hubspotusercontent-na2.net/hubfs/243927861/InEvo%20WHITEPAPER%20Commercial%20Insurance%20Broker%E2%80%99s%20Guide%20to%20Using%20Claude.pdf) to download the whitepaper.
