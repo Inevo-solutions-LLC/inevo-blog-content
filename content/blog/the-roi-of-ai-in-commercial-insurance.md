@@ -35,4 +35,4 @@ To understand the ROI of AI, insurers need to look beyond efficiency metrics and
 
 We explore these questions in _The ROI of AI in Commercial Insurance_—a practical look at how insurers can move from promising AI pilots to measurable, defensible business value.
 
-[**Download the whitepaper**](https://243927861.fs1.hubspotusercontent-na2.net/hubfs/243927861/WHITEPAPER%20ROI%20of%20AI%20in%20Commercial%20Insurance%20(2).pdf) **to find out where the ROI really comes from.**
+[Download the whitepaper](https://243927861.fs1.hubspotusercontent-na2.net/hubfs/243927861/WHITEPAPER%20ROI%20of%20AI%20in%20Commercial%20Insurance%20(2).pdf) **to find out where the ROI really comes from.**
